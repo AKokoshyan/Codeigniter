@@ -1,1 +1,1 @@
-This is an about page!
+<h2><?=$title?></h2>

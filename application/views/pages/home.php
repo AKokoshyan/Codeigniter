@@ -1,1 +1,1 @@
-This is home page!
+<h2><?=$title?></h2>
